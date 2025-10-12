@@ -6,7 +6,7 @@ Professional consulting website for Quantum QE, specializing in Agentic Quality 
 
 - **Production**: [https://quantum-qe.dev](https://quantum-qe.dev)
 - **Author**: Dragan Spiridonov
-- **Launch Date**: October 2025
+- **Launch Date**: October 1, 2025
 
 ## 📋 Features
 
@@ -89,6 +89,8 @@ Footer links are around line 1095:
 ```html
 <li><a href="https://linkedin.com/in/dragan-spiridonov">LinkedIn</a></li>
 <li><a href="https://github.com/dragan-spiridonov">GitHub</a></li>
+<li><a href="https://github.com/dragan-spiridonov/agentic-qe">Agentic QE Framework</a></li>
+<li><a href="https://github.com/dragan-spiridonov/sentinel">Sentinel AI Testing</a></li>
 ```
 
 ## 📁 File Structure
@@ -109,10 +111,10 @@ quantum-qe-website/
 
 ## 💼 Business Goals
 
-1. **Establish Authority**: Position as the Agentic QE expert in the region
+1. **Establish Authority**: Position as the Agentic QE expert in the region (PACT Framework Pioneer)
 2. **Generate Leads**: Convert visitors into discovery calls
-3. **Build Community**: Drive interest in Agentics Foundation Serbia
-4. **Showcase Expertise**: Demonstrate 25+ years of experience
+3. **Build Community**: Drive interest in Agentics Foundation Serbia (First Chapter)
+4. **Showcase Expertise**: Demonstrate 29+ years IT and 12+ years QA/QE leadership experience
 
 ## 🚦 Performance Targets
 
