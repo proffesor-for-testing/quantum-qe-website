@@ -19,7 +19,7 @@ Professional consulting website for Quantum QE, specializing in Agentic Quality 
 
 ### Content Sections
 - **Hero**: Strong value proposition with proven metrics
-- **PACT Framework**: Core methodology explanation  
+- **PACTS Framework**: Core methodology explanation (Proactive, Autonomous, Collaborative, Targeted, Structured) — Structured adds governance, observability, and explainability of agent behavior  
 - **Services**: Three primary service offerings
 - **Why Choose**: Unique differentiators and credentials
 - **CTA**: Clear call-to-action for engagement
@@ -111,7 +111,7 @@ quantum-qe-website/
 
 ## 💼 Business Goals
 
-1. **Establish Authority**: Position as the Agentic QE expert in the region (PACT Framework Pioneer)
+1. **Establish Authority**: Position as the Agentic QE expert in the region (PACTS Framework Pioneer)
 2. **Generate Leads**: Convert visitors into discovery calls
 3. **Build Community**: Drive interest in Agentics Foundation Serbia (First Chapter)
 4. **Showcase Expertise**: Demonstrate 29+ years IT and 12+ years QA/QE leadership experience
