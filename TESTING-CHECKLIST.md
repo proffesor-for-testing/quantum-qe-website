@@ -80,7 +80,7 @@ Run on: https://pagespeed.web.dev/
 - [ ] Service descriptions match offerings
 - [ ] No placeholder/lorem ipsum text
 - [ ] No broken English or typos
-- [ ] PACT framework accurately described
+- [ ] PACTS framework accurately described
 
 ## 🔐 Security & Compliance
 
