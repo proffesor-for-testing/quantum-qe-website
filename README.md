@@ -114,7 +114,7 @@ quantum-qe-website/
 1. **Establish Authority**: Position as the Agentic QE expert in the region (PACTS Framework Pioneer)
 2. **Generate Leads**: Convert visitors into discovery calls
 3. **Build Community**: Drive interest in Agentics Foundation Serbia (First Chapter)
-4. **Showcase Expertise**: Demonstrate 29+ years IT and 12+ years QA/QE leadership experience
+4. **Showcase Expertise**: Demonstrate 30+ years IT and 12+ years QA/QE leadership experience
 
 ## 🚦 Performance Targets
 
